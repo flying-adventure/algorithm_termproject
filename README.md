@@ -10,5 +10,12 @@
 
 ### Issue List
 - [baekjoon 1931](https://www.acmicpc.net/problem/1931)
-
+ dp: 김지해 greedy: 안수빈
 - [baekjoon 14916](https://www.acmicpc.net/problem/14916)
+ dp: 이정균 greedy: 박선인
+
+## Role Distribution
+- presenter
+- PPT creator
+- Researcher
+- Issue solve : All
