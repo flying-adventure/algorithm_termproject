@@ -15,7 +15,8 @@
  dp: 이정균 greedy: 박선인
 
 ## Role Distribution
-- presenter :
-- PPT creator :
-- Researcher :
-- Issue solve : All
+- PPT creator : ALL
+- Researcher : ALL
+- Issue solving : All
+- presenter : 박선인, 안수빈
+- Project Repository Management: 안수빈
